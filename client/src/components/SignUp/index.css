@@ -1,0 +1,12 @@
+.login .row {
+  height: 100vh;
+  margin: auto 300px;
+}
+.login button[type="submit"] {
+  width: 100%;
+}
+@media (max-width: 992px) {
+  .login .row {
+    margin: auto;
+  }
+}

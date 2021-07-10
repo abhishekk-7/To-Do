@@ -1,0 +1,14 @@
+.addtodo {
+  margin-top: 100px;
+}
+
+.addtodo {
+  margin-top: 100px;
+}
+.addtodo.row {
+  margin-top: 100px;
+}
+
+.addtodo .checked {
+  opacity: 0.5;
+}
